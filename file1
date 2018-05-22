@@ -4,3 +4,4 @@ maybe another
 git add test
 git add test2
 git commit all test
+git pull test
