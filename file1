@@ -1,7 +1,9 @@
 This is words that don't mean anything at all!
 some lines
 maybe another
+conflicty change
 git add test
 git add test2
 git commit all test
 git pull test
+
